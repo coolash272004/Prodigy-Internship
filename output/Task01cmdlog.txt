@@ -1,0 +1,3 @@
+runfile('F:/Prodigy_Projects/Task1/Task_01_DataScience.py', wdir='F:/Prodigy_Projects/Task1')
+Enter the Country for which you want the data : India
+Note : The graph is plotted for India's Population Comparison of Male and Female
